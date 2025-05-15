@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SivaParvathi</h1>
+<h1 align="center">Hi 👋, I'm SivaParvathi Akurathi</h1>
 <h3 align="center">Full Stack Web Developer | JavaScript | React | Node.js | MongoDB | GitHub Enthusiast</h3>
 
 - 🌱 I’m currently learning **Node.js**
