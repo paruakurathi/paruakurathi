@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm SivaParvathi</h1>
 <h3 align="center">Full Stack Developer || JavaScript || React || Node.js || MongoDB || GitHub Enthusiast</h3>
 
-- 🌱 I’m currently learning **Node.js**
-
 - 💬 Ask me about **JavaScript, React, Nodejs, Express,HTML5,CSS3**
 
 - 📫 How to reach me **paruakurathi@gmail.com**
